@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    border-color: blueviolet;
+}
+
+ul {
+    list-type: none;
+    list-style: circle;
+}
+
+li {
+    display: inline-block;
+}
